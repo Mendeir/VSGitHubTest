@@ -7,5 +7,7 @@ int main()
 	std::cout << "Eyyy\n";
 	std::cout << "Add something!\n";
 
+	std::cout << "This is something cool!\n";
+
 	return 0;
 }
