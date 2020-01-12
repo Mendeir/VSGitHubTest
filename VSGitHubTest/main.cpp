@@ -8,6 +8,8 @@ int main()
 	std::cout << "Add something!\n";
 
 	std::cout << "This is something cool!\n";
+	std::cout << "New feature!\n";
+	
 
 	return 0;
 }
